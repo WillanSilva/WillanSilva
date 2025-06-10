@@ -89,9 +89,7 @@ Acredito que a **comunicação clara** e o **conhecimento compartilhado** são o
 
 ## 📊 Estatísticas do GitHub
 
-**NÃO SE ESQUEÇA DE TROCAR "SEU-USERNAME-DO-GITHUB-AQUI" PELO SEU NOME DE USUÁRIO!**
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillanSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillanSilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
